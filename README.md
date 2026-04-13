@@ -19,7 +19,7 @@ See: https://unity.com/legal/privacy-policy
 - WiFi: To scan suspicious network devices
 
 ## Contact
-Email: তোমার-jotiboiragi91@gmail.com
+Email: jotiboiragi91@gmail.com
 
 ## Changes
 This policy may be updated. Check this page for updates.
